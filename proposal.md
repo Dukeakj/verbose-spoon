@@ -39,15 +39,15 @@ Describe at a high level a program that could solve that problem.
 
 1. Name: Give your project proposal a name (and edit the top line of this file)
 
-
+The Ultimate Conflict Resolution
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
 
-
+Our program will produce a hash table that will (hopefully) reduce the amount of conflicts that arise from the original hashing
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
-
+Our hash table will take in (key, value) pairs
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
