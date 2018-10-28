@@ -50,7 +50,7 @@ Describe at a high level a program that could solve that problem.
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-
+It'll be a command line interface.
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
