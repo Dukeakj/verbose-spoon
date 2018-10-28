@@ -17,10 +17,13 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 * Description of a program that has:
 
   ** a main Java program class in a file named Main.java
+    The program will be in a Java file named Main.java
   
   ** a custom data structure designed and built by your team
+    Our data structure will be a HashTable, however it will use double/triple/n-hashing mixed with quadratic probing in order to resolve conflicts in the table, which will in turn ideally make the memory profile of the program more efficient.
   
   ** comprehensive testing of individual units
+    The testing will need to cover how well the hashing algorithm works to generate hopefully unrelated(but deterministic) indices to avoid clustering, and would also need to test resizing, insert/remove/search operations, and that the program obeys the load factor.
   
  Caution: You are not being asked to implement this program, at least not yet. 
  We just want your group to make a proposal or pitch for your program.
