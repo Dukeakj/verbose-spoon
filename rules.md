@@ -21,7 +21,7 @@ We will use groupme to give a heads up to other members if there is an issue wit
 
 
 ## How we will back up each other to ensure that deadlines are not missed
-
+We will send reminders to each other before a deadline is upon us. This will ensure that no deadline is missed because of anyone forgetting its due date. Also, we will commmunicate our progress after certain periods of time, to ensure that the project is on track to be completed by the deadline.
 
 
 ## Add any other rules that your team establishes to help each other work effectively together
