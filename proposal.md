@@ -53,10 +53,11 @@ Our hash table will take in (key, value) pairs
 
 It'll be a command line interface.
 
-
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
+Hashing function
 
+Traversal algorithm (i.e. Quadratic probing, custom probing, etc)
 
 Name each interface or class and briefly describe its function or purpose.
 
