@@ -9,7 +9,7 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-We'll identify all tasks, and then split it into an even workload by discussing what a fair split is, and if we can't come to an agreement, we'll vote.
+
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
@@ -17,7 +17,7 @@ We'll identify all tasks, and then split it into an even workload by discussing 
 
 
 ## How will will communicate difficulties with a task assigned to us
-
+We will use groupme to give a heads up to other members if there is an issue with a task, and if in person that member will communicate the problem to the group for everybody to solve.
 
 
 ## How we will back up each other to ensure that deadlines are not missed
