@@ -14,7 +14,7 @@ and missed deadlines.
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
-
+We will make clear to the group what each person is working on, and that person will regularly push their changes to the group repository
 
 ## How will will communicate difficulties with a task assigned to us
 We will use groupme to give a heads up to other members if there is an issue with a task, and if in person that member will communicate the problem to the group for everybody to solve.
