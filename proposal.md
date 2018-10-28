@@ -60,9 +60,11 @@ It'll be a command line interface.
 
 Name each interface or class and briefly describe its function or purpose.
 
-Main.java - Contains implementation of our data structure
+* Main.java - Contains implementation of our data structure
 
-HashAntiConflict.java - Interface for our data structure. Outlines the constructor and each method required by this class
+* HashAntiConflictADT.java - Interface for our data structure. Outlines the constructor and each method required by this class
+
+* HashAntiConflictTest.java - Test class for HashAntiConflict implementation. Unit tests for every constructor and method in Main class
 
 ## Edit and Submit this file and any figures referenced by this document.
 
