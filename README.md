@@ -9,9 +9,8 @@
    * What are the GitHub usernames and names of your team members?
        * GitHub username 1:Dukeakj       name 1: Duke Johnson
        * GitHub username 2:meyjac23      name 2: Jake Meyer
-       * GitHub username 3:       name 3:
+       * GitHub username 3:rdonovan3     name 3: Riley Donovan
        * GitHub username 4:       name 4:
-       * GitHub username 5:       name 5:
    * When did you complete this exercise? 
    Sunday, October 28th
    * How long did it take your team to complete this exercise? 
