@@ -32,8 +32,7 @@ Be sure to submit corresponding image files, i.e. figure1.png (or figure1.jpg) f
 
 ## Problem Description
 
-Briefly describe a problem that your team would like to solve.  
-Describe at a high level a program that could solve that problem.
+Conflict Resolution is one of, if not the biggest, problems in hash tables. Our program will solve that problem with double/triple/n-times hashing and a quadratic probing algorithm.
 
 ## Questions to answer for Exercise #2
 
