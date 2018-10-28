@@ -50,6 +50,7 @@ Our program will produce a hash table that will (hopefully) reduce the amount of
 Our hash table will take in (key, value) pairs
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
+
 It'll be a command line interface.
 
 
