@@ -58,7 +58,8 @@ Describe at a high level a program that could solve that problem.
 
 
 Name each interface or class and briefly describe its function or purpose.
-
+Main.java - Contains implementation of our data structure
+HashAntiConflict.java - Interface for our data structure. Outlines the constructor and each method required by this class
 
 ## Edit and Submit this file and any figures referenced by this document.
 
